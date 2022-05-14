@@ -52,7 +52,8 @@ This wiper control system application is researched from various sources like go
 ## FLOW CHART
 ![FLOWCHART](https://user-images.githubusercontent.com/101622270/168106685-a7027ae9-4bc2-4520-9fee-b79776c03cfd.PNG)
 ## BLOCK DIAGRAM
-![Block_diagram](https://user-images.githubusercontent.com/101622270/168106736-40be3039-a57a-40c5-9add-1282e3cf9369.PNG)
+![Block_diagram](https://user-images.githubusercontent.com/102171569/168428421-edc890c6-5553-49bf-9ab0-55f9653c6aaf.JPG)
+
 ## STRUCTURAL DIAGRAM
 ![structural diagram](https://user-images.githubusercontent.com/101622270/168106870-fa8b3ad1-0277-4bf0-a525-36f0a13328e3.PNG)
 ## BEHAVIOR DIAGRAM
