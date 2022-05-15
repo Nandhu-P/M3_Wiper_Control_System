@@ -8,5 +8,7 @@
   [![Build CI - Windows](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml)
   - Makefile
    [![Makefile](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/Makefile.yml/badge.svg)](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/Makefile.yml)
-   - cpp check
+   - Build c/c++
      [![C/C++ CI](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/c-cpp.yml)
+     - cpp check
+      [![cppcheck-action](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nandhu-P/M3_Wiper_Control_System/actions/workflows/cppcheck.yml)
